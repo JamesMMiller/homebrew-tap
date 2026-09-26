@@ -8,7 +8,7 @@ class ProfitAdminCli < Formula
 
   desc "Command-line client for the Profit Admin machine API"
   homepage "https://desk.ourtechaccessories.com/"
-  url "https://github.com/JamesMMiller/profit-admin/releases/download/cli-v0.1.0/profit-admin-cli-0.1.0.tar.gz"
+  url "https://github.com/JamesMMiller/homebrew-tap/releases/download/cli-v0.1.0/profit-admin-cli-0.1.0.tar.gz"
   sha256 "17eb81f73bc7f9b21a57b89c5951a169ee7d09cbecb4c706541c68535984f272"
   license :cannot_represent
   version "0.1.0"
