@@ -1,8 +1,8 @@
 cask "profit-admin" do
-  version "0.1.5"
-  sha256 "402fdb6463d61c3df9488cd4e324e11cff530ee8d84befaf926477c52d35c689"
+  version "0.1.6"
+  sha256 "45f6cfa2588273110ecc1522c80c6b0ab8be603d3392217f7fd0486a07c7f99a"
 
-  url "https://github.com/JamesMMiller/homebrew-tap/releases/download/profit-admin-v0.1.5/ProfitAdmin-#{version}.dmg"
+  url "https://github.com/JamesMMiller/homebrew-tap/releases/download/profit-admin-v0.1.6/ProfitAdmin-#{version}.dmg"
   name "Profit Admin"
   desc "Native desk for Our Tech Profit Admin"
   homepage "https://desk.ourtechaccessories.com/"
