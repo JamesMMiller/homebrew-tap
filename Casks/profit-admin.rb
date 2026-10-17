@@ -7,6 +7,9 @@ cask "profit-admin" do
   desc "Native desk for Our Tech Profit Admin"
   homepage "https://desk.ourtechaccessories.com/"
 
+  # Frozen 17 Oct 2026: the Mac app is no longer used or maintained. 0.1.9 is the last version.
+  deprecate! date: "2026-10-17", because: :unmaintained
+
   depends_on macos: ">= :sonoma"
 
   app "Profit Admin.app"

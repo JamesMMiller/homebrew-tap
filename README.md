@@ -2,6 +2,8 @@
 
 ## Profit Admin (macOS 14+)
 
+> **Frozen and unmaintained (17 Oct 2026).** The Mac app is no longer used, released or supported. 0.1.9 is the last version; no fixes will ship. The cask is marked deprecated, so `brew` warns on install. Releases and history stay here. The `pa` CLI formula is also no longer released.
+
 ```bash
 brew install --cask jamesmmiller/tap/profit-admin
 ```
