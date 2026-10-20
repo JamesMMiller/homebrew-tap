@@ -4,7 +4,7 @@ cask "profit-admin" do
 
   url "https://github.com/JamesMMiller/homebrew-tap/releases/download/profit-admin-v0.1.9/ProfitAdmin-#{version}.dmg"
   name "Profit Admin"
-  desc "Native desk for Our Tech Profit Admin"
+  desc "Native desk for Profit Admin"
   homepage "https://desk.ourtechaccessories.com/"
 
   # Frozen 17 Oct 2026: the Mac app is no longer used or maintained. 0.1.9 is the last version.
